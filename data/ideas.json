@@ -208,6 +208,12 @@
         "description": "A simple word guessing game.",
         "level": "intermediate",
         "tags": "word-guessing-game"
+    },
+    {
+        "title": "Restaurant Suggester",
+        "description": "A simple app that suggests restaurants to a user based on budget, food type, and location. Utlizes the DocuMenu API.",
+        "level": "basic",
+        "tags": "restaurant-app, search, web-app"
     }
 
 ]
